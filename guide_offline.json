@@ -1,0 +1,109 @@
+{
+  "Ads": [
+  {
+    "select_ads": "FACEBOOK",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+    "interval_intertitial": 1,
+    "startappid": "201669628",
+    "fan_inter": "1215457302811085_1460936788263134",
+    "fan_banner_native": "1215457302811085_1460936658263147",
+    "fan_banner": "1215457302811085_1460936408263172",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "applovin_banner": "db4d5e8718b97d78",
+    "applovin_inter": "518cd97722c60b52",
+    "packagename": "com.speeder.bukuanak.cuando"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Dongeng",
+      "image": "file:///android_asset/image/dongeng.png"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Comedy",
+      "image": "file:///android_asset/image/comedy.png"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Pendidikan",
+      "image": "file:///android_asset/image/pendidikan.png"
+
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Dongeng",
+      "title": "Petani Serakah",
+      "image": "file:///android_asset/image/petani.png",
+      "description": "Pak Petani selalu ingin mendapatkan banyak uang. Pada musim semi, ia berseru kepada Tuhan,Jika hari cerah, aku akan menuai gandumku.",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Comedy",
+      "title": "Musang Berjanggut",
+      "image": "file:///android_asset/image/musang berjanggut.png",
+      "description": "Musang Berjanggut adalah tokoh yang cerdik dan sering menggunakan kecerdasannya untuk mengatasi masalah.",
+      "link": "file:///android_asset/guide/guide_2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Pendidikan",
+      "title": "Kemiskinan Tak Jadi Penghalang",
+      "image": "file:///android_asset/image/kemiskinan.png",
+      "description": "Di sebuah desa kecil di Jawa Tengah, hiduplah seorang anak perempuan bernama Rara. Rara berasal dari keluarga yang sangat miskin.",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Comedy",
+      "title": "Penemu Alat Elektronik",
+      "image": "file:///android_asset/image/penemu alat elektronik.png",
+      "description": "Bowet saat masih SMA menjadi seorang siswa biasa dan tak ada yang istimewa dari dirinya. Di sekolah pun, Bowet bukan siswa pandai.",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Pendidikan",
+      "title": "Si Anak yang Malas",
+      "image": "file:///android_asset/image/si anak malas.png",
+      "description": "Ada seorang anak bernama Andi yang sangat malas belajar. Setiap kali disuruh belajar, dia selalu menolak.",
+      "link": "file:///android_asset/guide/guide_5.html"  }
+
+  ]
+}
