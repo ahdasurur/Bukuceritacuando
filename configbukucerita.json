@@ -123,14 +123,6 @@
       "video": ""
     },
     {
-      "id": 5,
-      "category": "Game",
-      "title": "PUBG New State on PC: Global launch time based on your country",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/pubg.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/pubg.html",
-      "video": ""
-    },
-    {
       "id": 6,
       "category": "Dongeng",
       "title": "Petani Serakah",
@@ -147,12 +139,6 @@
       "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
     },
     {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://play.google.com/store/apps/details?id=com.cuando.cuacagoogle"
-    },
-    {
       "id": 3,
       "title": "",
       "image": "",
@@ -167,3 +153,4 @@
   ]
 
 }
+
