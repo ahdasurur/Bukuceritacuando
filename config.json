@@ -124,7 +124,7 @@
     },
     {
       "id": 5,
-      "category": "Dongeng",
+      "category": "Dongeng, Pendidikan",
       "title": "Petani Serakah",
       "image": "https://raw.githubusercontent.com/ahdasurur/Bukuceritacuando/refs/heads/main/IMG_2722.png",
       "content": "https://raw.githubusercontent.com/ahdasurur/Bukuceritacuando/refs/heads/main/guide_1.html",
@@ -133,3 +133,4 @@
   ]
 
 }
+
