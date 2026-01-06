@@ -36,7 +36,7 @@
       "fan_interstitial_unit_id": "1215457302811085_1460936788263134",
       "fan_native_unit_id": "1215457302811085_1600937204263091",
       "startapp_app_id": "0",
-      "unity_game_id": "0",
+      "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
       "applovin_banner_unit_id": "0",
@@ -141,6 +141,7 @@
   ]
 
 }
+
 
 
 
